@@ -26,13 +26,14 @@ Trong bài tập lớn này sử dụng công cụ `Apache NetBeans IDE 16` đ�
 👉 Link tải: https://netbeans.apache.org/download/index.html
 
 <b>📌 Bước 2: Chạy chương trình</b>
+
 Sau khi tải xong `Apache NetBeans IDE` mở dụng dụng lên click `File` -> `Open Project` -> Chọn nơi bạn đã lưu project này.
 
 Tìm đến file `Main.java` trong packet `mainapp` và chạy file đó lên.
 
-Tạo tài khoản mới và dùng app hoặc bạn có thể dùng một trong những tài khoản dưới đây
-Account demo thống kê điểm: TK:theanh1 mk:12345
-Account demo quản lý viên: TK:admin mk:12345
+Tạo tài khoản mới và bắt đầu trải nghiệm app hoặc bạn có thể dùng một trong những tài khoản dưới đây<br>
+Tài khoản học viên cũ(dùng để xem thống kê điểm): TK:theanh1 mk:12345<br>
+Tài khoản của quản lý viên: TK:admin mk:12345
 
 ## ⚡ UML - Sơ đồ lớp
 
